@@ -13,7 +13,7 @@ We found that in 2017, the 12 tickers had a much better return than in 2018. Whi
 
 ![2017 Analysis](https://github.com/sbull32/Stock_Analysis/blob/main/Resources/2017%20Stock%20Analysis.png)
 
-![2018 Analysis](https://github.com/sbull32/Stock_Analysis/blob/main/Resources/2018%20Stock%20Analysis.png)
+![2018 Analysis](https://github.com/sbull32/Stock_Analysis/blob/main/Resources/2018%20stock%20analysis.png)
 
 ### Analysis of Refactored Code Efficiency
 
